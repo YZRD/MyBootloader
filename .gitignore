@@ -1,0 +1,11 @@
+
+*.d
+*.o
+*.__i
+*._ia
+*.crf
+
+build/
+
+*.Administrator
+*.Administrator
